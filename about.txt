@@ -1,1 +1,27 @@
-this is a documentation of mono
+# Monopoly - Game Description
+
+**Monopoly** is a classic board game centered around real estate trading and financial strategy. The objective is to become the wealthiest player by buying, renting, and selling properties.
+
+## Key Features
+
+- **Players:** 2–8
+- **Goal:** Become the richest player and bankrupt your opponents.
+
+## How to Play
+
+- Players take turns rolling two dice to move around the board.
+- The board consists of:
+  - **Properties** (grouped by color)
+  - **Railroads and utilities**
+  - **Tax spaces**
+  - **Chance and Community Chest cards**
+  - **Special spaces** like *Jail*, *Free Parking*, and *Go to Jail*
+- If you land on an unowned property, you can **buy** it from the bank.
+- If you land on a property owned by another player, you must **pay rent**.
+- Owning all properties of a color group allows you to **build houses and hotels**, increasing the rent.
+
+## Strategy
+
+- Acquire **monopolies** to build and charge higher rent.
+- **Negotiate trades** with other players to gain advantages.
+- **Manage your money** carefully to avoid bankruptcy
